@@ -1,13 +1,13 @@
 body {
-    margin: 0;
-    padding: 0;
-    background: url('https://www.sunhome.ru/i/wallpapers/122/oboi-nebo-i-more.orig.jpg');
+    margin: 7;
+    padding: 7;
+    background: url("https://i.gifer.com/2V3X.gif");
     background-size: cover;
   }
   
   a{
     font-size: 2rem;
-    color: black;
+    color: rgb(242, 172, 9);
   }
   
   #trafficLight1 {
