@@ -6,16 +6,16 @@ body {
 }
 
 a{
-    font-size: 2rem;
+    font-size: 3rem;
     color: black;
 }
 
 p{
-    font-size: 2rem;
+    font-size: 3rem;
     align-items: baseline;  
 }
 
 code{
-    font-size: 2rem;
+    font-size: 3rem;
     align-items: baseline; 
 }
