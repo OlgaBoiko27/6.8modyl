@@ -1,11 +1,11 @@
 body {
     margin: 0;
     padding: 0;
-    background: url('https://www.sunhome.ru/i/wallpapers/122/oboi-nebo-i-more.orig.jpg');
+    background: url("https://otvet.imgsmail.ru/download/99239389_43af5e29d097a22650d1bdf5f024990d_800.gif");
     background-size: cover;
   }
   
   a{
     font-size: 2rem;
-    color: black;
+    color: rgb(10, 37, 239);
   }
